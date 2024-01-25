@@ -28,5 +28,6 @@ You work as a business intelligence analyst for Waggle, a startup that makes sma
 <img width="1468" alt="Screenshot 2024-01-25 at 2 57 21 PM" src="https://github.com/DianaTaha/NCC-Analysis-Report/assets/157681412/e6fdee58-dfba-49eb-925e-6dd7d362d94c">
 
 <img width="1468" alt="Screenshot 2024-01-25 at 2 57 35 PM" src="https://github.com/DianaTaha/NCC-Analysis-Report/assets/157681412/8354c4c3-8c79-4188-b609-76fc1b2e3297">
+<img width="1468" alt="Screenshot 2024-01-25 at 2 57 43 PM" src="https://github.com/DianaTaha/Waggle-Report/assets/157681412/1de9600e-02c2-49de-8e2c-ae7dc1a5f48b">
 
 
